@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on analyzing my newborn's feeding patterns 
 - 🌱 I’m currently learning Python for data engineering
 <!--
-- 🔭 I’m currently working on 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
